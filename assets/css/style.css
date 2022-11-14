@@ -1,0 +1,61 @@
+.container-fluid{
+    padding: 0 !important;
+}
+.preheader {
+    background-color: black;
+    height: 40px;
+}
+.preheader span {
+    color: white;
+}
+
+.headermenu{
+    background-color: white;
+    height: 70px;
+}
+
+.menulist ul li {
+    display: block;
+    float: left;
+    padding: 16px;
+    font-size: 14px;
+}
+
+.menulist ul li a{
+    color: black
+}
+
+.bannersec {
+    background-image:url("./../images/banbg.jpg");
+    height: 600px;
+}
+
+.slidercontent{
+    margin-top: 120px;
+    font-size: 36px;
+    font-weight:900;
+}
+
+.main_heading{
+    color: white;
+}
+
+.btnclass{
+    color: white !important; 
+}
+
+.menulist ul li a:hover{
+    color: black;
+    text-decoration: none;
+}
+
+.bannersec{
+    width: 100%;
+}
+.sub_containt{
+    color: white;
+    font-size: 16px;
+    padding-top: 18px;
+    font-family:Arial, Helvetica, sans-serif;
+
+}
